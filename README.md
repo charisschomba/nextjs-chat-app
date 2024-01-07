@@ -1,7 +1,7 @@
 # NextJS Chat Tutorial
 
 <img 
-    src="https://raw.githubusercontent.com/alamorre/nextjs-chat-app/main/assets/nextjs-chat-tutorial.png" 
+    src="https://github.com/charisschomba/nextjs-chat-app/blob/main/assets/nextjs-chat-app.png"
     width="75%" 
     height="100%"
 />
